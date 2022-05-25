@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 load_dotenv()
 
-bot = discord.Bot(debug_guilds=[978391125431812116])
+bot = discord.Bot(debug_guilds=[967051592329232494])
 
 @bot.event
 async def on_ready():
